@@ -2,7 +2,7 @@
 Shwitter is a social media application that is used to share text based messageswith the world.
 You can follow or unfollow any subscribers to see their shweets as well as share your thoughts with them.
 
-![alt text](https://github.com/SNderi/shwitter/blob/main/Images/dashboard.png)
+![dashboard](https://github.com/SNderi/shwitter/blob/main/Images/dashboard.png)
 
 ## Explore Shwitter
 ### Installation and Usage
@@ -21,12 +21,18 @@ Navigate to `http://127.0.0.1:8000/` on your web browser and explore shwitter us
 You can read and post shweets, follow or unfollow profiles, see a list of profiles following you as well as those you are following and view all user profiles.
 
 ## Architecture
+![architecture](https://github.com/SNderi/shwitter/blob/main/Images/architecture.png)
+
 ## API's
 - /shwitter/profile_list
-GET: Returns a list of all the users with their profiles.
+  - GET: Returns a list of all the users with their profiles.
 - /shwitter/profile/id
-GET: Returns unique id profile
+  - GET: Returns unique id profile
+
 ## Shwitter Views
+![profile list](https://github.com/SNderi/shwitter/blob/main/Images/profile_list.png)
+![profile](https://github.com/SNderi/shwitter/blob/main/Images/profile.png)
+
 ## Languages Libraries and Frameworks used
 - Python
 - HTML
@@ -36,5 +42,5 @@ GET: Returns unique id profile
 - SQLite
 
 ## Authors
-> [William Mwangi](./https://github.com/william-4)
-> [Sharon Nderi](./https://github.com/SNderi)
+- [William Mwangi](./https://github.com/william-4)
+- [Sharon Nderi](./https://github.com/SNderi)
