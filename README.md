@@ -27,7 +27,7 @@ You can read and post shweets, follow or unfollow profiles, see a list of profil
 - /shwitter/profile_list
   - GET: Returns a list of all the users with their profiles.
 - /shwitter/profile/id
-  -GET: Returns unique id profile
+  - GET: Returns unique id profile
 
 ## Shwitter Views
 ![profile list](https://github.com/SNderi/shwitter/blob/main/Images/profile_list.png)
