@@ -21,7 +21,7 @@ Navigate to `http://127.0.0.1:8000/` on your web browser and explore shwitter us
 You can read and post shweets, follow or unfollow profiles, see a list of profiles following you as well as those you are following and view all user profiles.
 
 ## Architecture
-https://github.com/SNderi/shwitter/blob/main/Images/architecture.png
+![alt text](https://github.com/SNderi/shwitter/blob/main/Images/architecture.png)
 
 ## API's
 - /shwitter/profile_list
@@ -30,8 +30,8 @@ GET: Returns a list of all the users with their profiles.
 GET: Returns unique id profile
 
 ## Shwitter Views
-https://github.com/SNderi/shwitter/blob/main/Images/profile_list.png
-https://github.com/SNderi/shwitter/blob/main/Images/profile.png
+![alt text](https://github.com/SNderi/shwitter/blob/main/Images/profile_list.png)
+![alt text](https://github.com/SNderi/shwitter/blob/main/Images/profile.png)
 
 ## Languages Libraries and Frameworks used
 - Python
