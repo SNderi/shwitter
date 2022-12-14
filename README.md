@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/SNderi/shwitter/blob/main/Images/dashboard.png)
 
 # SHWITTER
 Shwitter is a social media application that is used to share text based messageswith the world.
