@@ -1,3 +1,5 @@
+![alt text]()
+
 # SHWITTER
 Shwitter is a social media application that is used to share text based messageswith the world.
 You can follow or unfollow any subscribers to see their shweets as well as share your thoughts with them.
