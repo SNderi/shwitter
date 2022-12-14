@@ -1,8 +1,8 @@
-![alt text]()
-
 # SHWITTER
 Shwitter is a social media application that is used to share text based messageswith the world.
 You can follow or unfollow any subscribers to see their shweets as well as share your thoughts with them.
+
+![alt text](https://github.com/SNderi/shwitter/blob/main/Images/dashboard.png)
 
 ## Explore Shwitter
 ### Installation and Usage
@@ -34,6 +34,7 @@ GET: Returns unique id profile
 - Django
 - Bulma
 - SQLite
+
 ## Authors
-[William Mwangi](./https://github.com/william-4)
-[Sharon Nderi](./https://github.com/SNderi)
+> [William Mwangi](./https://github.com/william-4)
+> [Sharon Nderi](./https://github.com/SNderi)
